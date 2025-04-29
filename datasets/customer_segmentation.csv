@@ -1,0 +1,1001 @@
+Customer age,Purchase frequency,Average spending,Product category preference,Browsing time,Customer Segment
+49,19,3731,Books,122,2
+36,25,5137,Sports,101,0
+48,14,3807,Home & Kitchen,112,1
+47,18,4049,Sports,121,2
+48,15,3754,Sports,80,1
+59,8,1971,Clothing,102,0
+49,15,3328,Home & Kitchen,110,0
+50,16,3219,Home & Kitchen,123,2
+47,14,4249,Home & Kitchen,116,2
+51,12,3148,Sports,107,2
+39,18,4874,Books,74,0
+61,10,380,Home & Kitchen,99,2
+30,25,6782,Sports,128,0
+41,14,5973,Clothing,127,2
+39,15,5439,Books,117,0
+41,24,4921,Clothing,70,2
+29,24,6934,Books,110,0
+33,21,7346,Sports,132,2
+53,14,2723,Electronics,86,1
+42,12,5410,Books,108,1
+37,17,5077,Clothing,78,0
+48,14,4019,Sports,93,1
+36,17,5912,Books,104,0
+29,20,8175,Electronics,89,1
+24,26,8454,Electronics,116,0
+32,22,7566,Home & Kitchen,110,0
+50,11,3157,Home & Kitchen,121,0
+48,15,3538,Clothing,90,1
+32,21,6234,Books,159,0
+29,27,7225,Books,127,0
+52,11,2920,Home & Kitchen,77,0
+27,23,7658,Books,121,0
+48,6,3899,Books,106,2
+42,12,5599,Electronics,118,1
+53,10,2859,Home & Kitchen,78,0
+47,14,3599,Sports,100,0
+38,16,6238,Home & Kitchen,115,1
+48,20,3730,Sports,133,2
+55,13,2418,Electronics,92,1
+45,12,4728,Clothing,89,1
+50,13,3231,Books,101,0
+32,26,6533,Electronics,77,2
+33,25,6354,Books,70,2
+41,20,5716,Clothing,101,2
+51,16,3030,Clothing,124,2
+47,15,4275,Electronics,120,2
+41,18,4609,Clothing,81,0
+34,21,6800,Sports,95,0
+42,14,4324,Clothing,116,0
+50,22,3280,Books,140,2
+40,18,5043,Books,124,0
+36,28,5668,Books,88,2
+35,18,6721,Books,89,2
+37,17,4915,Sports,87,0
+48,13,3486,Home & Kitchen,98,0
+53,16,2384,Electronics,44,1
+47,17,4265,Books,116,2
+26,19,8293,Clothing,83,2
+45,11,3887,Books,69,0
+35,20,6176,Clothing,94,0
+33,20,7238,Clothing,101,2
+35,22,6323,Books,87,2
+43,13,5127,Sports,121,1
+47,14,3714,Clothing,86,0
+46,14,4370,Clothing,110,1
+34,22,5832,Books,112,0
+44,23,5136,Clothing,140,2
+39,16,4695,Clothing,84,0
+34,17,6873,Books,118,1
+52,13,3133,Books,73,1
+47,19,4229,Electronics,63,2
+44,15,5106,Sports,137,2
+50,5,3393,Sports,99,2
+49,7,3427,Clothing,114,2
+30,18,7739,Sports,91,2
+45,18,4002,Clothing,99,0
+42,11,5182,Electronics,108,1
+44,13,3972,Books,96,0
+47,14,4326,Books,79,1
+35,17,7397,Books,134,2
+57,13,2365,Sports,96,0
+49,14,3419,Electronics,100,0
+29,23,7477,Sports,121,1
+44,14,4945,Sports,106,1
+33,14,7520,Electronics,78,2
+39,18,5722,Electronics,117,1
+31,21,6522,Electronics,156,0
+38,12,6124,Electronics,110,1
+45,16,4913,Books,115,2
+34,24,6289,Home & Kitchen,76,2
+43,13,5298,Home & Kitchen,121,2
+32,22,6274,Electronics,102,0
+47,15,4100,Home & Kitchen,82,1
+39,16,4741,Home & Kitchen,91,0
+41,16,5501,Electronics,105,1
+37,18,6823,Home & Kitchen,127,2
+43,23,3437,Sports,115,0
+42,14,5413,Clothing,117,2
+27,16,8669,Clothing,109,1
+50,9,3166,Electronics,101,2
+27,21,7510,Books,125,0
+44,13,4889,Electronics,81,1
+42,21,5317,Books,94,2
+38,17,5884,Clothing,126,1
+30,25,6937,Electronics,91,0
+52,13,2957,Sports,76,1
+29,24,7171,Home & Kitchen,117,0
+39,19,5315,Books,96,0
+46,13,3820,Home & Kitchen,81,0
+44,15,3984,Home & Kitchen,100,0
+35,19,6437,Electronics,89,2
+53,11,2881,Home & Kitchen,93,0
+38,18,5435,Sports,125,0
+32,19,6396,Home & Kitchen,138,0
+28,27,7330,Electronics,101,2
+33,16,7256,Sports,122,1
+35,18,5362,Clothing,74,0
+46,11,4354,Home & Kitchen,99,2
+44,17,4970,Electronics,128,2
+32,19,6734,Clothing,157,0
+27,21,7836,Clothing,150,0
+39,16,4833,Books,88,0
+43,15,4194,Sports,82,0
+30,17,7406,Home & Kitchen,76,0
+33,17,7172,Electronics,119,1
+36,14,6569,Books,122,1
+49,15,3656,Sports,125,2
+48,17,3758,Books,111,2
+47,15,4070,Sports,118,2
+37,13,4973,Sports,77,0
+35,13,6556,Home & Kitchen,114,1
+34,20,6747,Sports,75,1
+54,13,2606,Books,85,1
+49,13,3935,Sports,78,1
+37,25,6266,Home & Kitchen,125,2
+27,19,8241,Home & Kitchen,98,2
+27,22,8419,Books,103,0
+32,13,7996,Clothing,115,1
+34,19,6537,Clothing,61,2
+30,27,6311,Sports,99,0
+45,17,4007,Electronics,83,0
+38,20,6513,Sports,125,2
+43,14,4186,Books,83,0
+42,7,5595,Books,119,2
+41,9,5874,Books,125,2
+43,13,5178,Books,82,1
+47,11,4129,Books,117,2
+52,17,3054,Home & Kitchen,124,2
+55,13,2634,Clothing,106,0
+37,21,5198,Books,104,0
+35,24,6056,Electronics,73,2
+37,21,5292,Electronics,125,0
+28,16,8514,Electronics,113,1
+43,15,5113,Electronics,105,1
+48,13,4034,Home & Kitchen,111,2
+46,28,3722,Electronics,77,2
+42,23,4848,Books,73,2
+36,19,6935,Sports,74,0
+46,16,3873,Electronics,95,0
+35,19,6909,Home & Kitchen,112,2
+35,16,6834,Home & Kitchen,119,1
+35,20,6143,Electronics,56,2
+30,17,7256,Sports,64,2
+46,14,3730,Electronics,104,0
+25,14,8920,Home & Kitchen,89,2
+28,15,8406,Clothing,129,1
+31,21,7408,Books,111,2
+42,15,4399,Home & Kitchen,72,0
+36,20,6181,Electronics,99,1
+35,19,6247,Books,86,0
+42,10,5819,Electronics,114,1
+39,18,5762,Electronics,114,1
+42,18,4109,Clothing,131,0
+40,14,4614,Books,91,0
+39,15,4724,Books,92,0
+53,14,2940,Clothing,75,1
+41,9,6202,Home & Kitchen,115,1
+41,27,4675,Electronics,81,2
+35,18,5333,Sports,78,0
+64,9,699,Electronics,83,2
+33,22,5658,Electronics,119,0
+47,15,3718,Home & Kitchen,89,0
+46,14,3791,Electronics,99,0
+50,13,3108,Clothing,110,0
+44,17,4850,Clothing,94,1
+35,16,6932,Books,115,1
+41,12,6057,Sports,108,1
+46,13,4176,Electronics,95,1
+38,23,5273,Electronics,108,0
+39,22,4869,Home & Kitchen,92,0
+33,11,7736,Clothing,119,1
+38,17,4957,Sports,73,0
+37,22,5767,Books,64,2
+39,18,4805,Clothing,81,0
+37,16,5530,Books,132,0
+56,13,2284,Home & Kitchen,89,1
+36,22,6663,Home & Kitchen,119,2
+32,21,7796,Electronics,135,2
+45,15,4614,Sports,112,1
+56,16,1933,Books,131,2
+50,10,3458,Clothing,122,2
+35,15,6980,Home & Kitchen,117,1
+43,13,4209,Electronics,86,0
+39,10,6441,Electronics,126,1
+46,12,4513,Books,116,2
+38,16,4819,Home & Kitchen,89,0
+46,13,4659,Sports,104,1
+46,20,4992,Home & Kitchen,129,2
+34,20,5961,Books,114,0
+46,19,3950,Books,84,0
+41,19,4996,Home & Kitchen,112,0
+47,10,4244,Books,106,2
+38,17,4474,Home & Kitchen,142,0
+31,17,7834,Clothing,118,1
+48,14,3560,Home & Kitchen,81,0
+35,16,6801,Home & Kitchen,119,1
+37,17,6427,Books,79,2
+40,18,6149,Books,139,2
+35,21,7254,Electronics,144,2
+37,14,4874,Electronics,57,0
+30,18,7187,Clothing,53,2
+35,20,6702,Electronics,105,2
+41,17,5365,Home & Kitchen,107,1
+53,10,2784,Books,114,0
+38,19,6046,Electronics,71,2
+55,11,2459,Electronics,74,1
+36,19,5095,Clothing,117,1
+48,8,4685,Clothing,110,1
+43,14,5193,Home & Kitchen,118,1
+29,15,8277,Books,132,1
+51,11,2984,Clothing,106,0
+46,14,4433,Electronics,126,2
+55,21,1771,Books,129,2
+49,12,3938,Books,118,2
+25,21,8830,Electronics,109,0
+34,18,6750,Clothing,111,2
+39,19,6084,Electronics,109,2
+40,13,5865,Books,114,1
+52,7,2870,Sports,104,2
+49,6,3874,Sports,104,2
+38,15,6049,Home & Kitchen,166,0
+39,24,5268,Electronics,71,2
+41,19,5124,Electronics,118,1
+32,19,7646,Home & Kitchen,127,2
+39,16,5857,Home & Kitchen,118,1
+60,15,995,Home & Kitchen,69,1
+50,7,3598,Books,89,2
+35,24,5922,Electronics,64,2
+53,13,2891,Books,65,1
+43,10,5745,Home & Kitchen,114,1
+52,14,2783,Electronics,63,1
+59,11,2074,Books,103,0
+56,10,1901,Books,115,2
+42,16,5130,Home & Kitchen,51,2
+43,17,4182,Electronics,91,0
+29,21,7057,Home & Kitchen,142,0
+52,12,2953,Electronics,106,2
+35,14,6080,Sports,141,0
+41,14,5568,Clothing,119,1
+40,21,4839,Clothing,75,0
+42,12,5703,Clothing,113,1
+34,14,7165,Home & Kitchen,124,1
+42,15,4396,Sports,82,0
+42,12,5466,Electronics,113,2
+47,13,4240,Books,100,1
+36,14,6813,Electronics,111,1
+53,8,2621,Books,109,2
+33,21,6729,Electronics,63,2
+45,15,4260,Sports,73,1
+33,20,6403,Books,95,0
+46,24,3890,Home & Kitchen,58,2
+34,23,7499,Electronics,165,2
+35,17,6655,Electronics,123,1
+55,7,2479,Books,118,2
+36,18,5964,Home & Kitchen,113,0
+26,26,7523,Home & Kitchen,120,0
+38,23,5936,Sports,96,2
+50,15,3235,Home & Kitchen,111,2
+56,18,1807,Home & Kitchen,127,2
+43,19,4618,Home & Kitchen,97,0
+40,24,5418,Clothing,84,2
+39,9,6729,Sports,118,2
+30,14,7931,Electronics,130,1
+31,22,6441,Books,120,0
+30,21,7682,Electronics,112,2
+38,17,5980,Sports,117,1
+30,26,7295,Books,82,0
+27,20,8733,Sports,135,2
+48,7,4101,Home & Kitchen,100,2
+29,17,8185,Books,110,1
+51,12,3659,Home & Kitchen,105,1
+40,10,6161,Electronics,107,1
+27,17,8571,Electronics,127,1
+41,12,5927,Books,113,1
+37,20,6396,Books,106,2
+35,17,5318,Sports,52,0
+31,24,6947,Sports,93,1
+42,15,5234,Home & Kitchen,122,1
+36,21,5860,Books,97,0
+29,16,8061,Electronics,123,1
+37,19,6100,Sports,120,1
+38,6,7202,Sports,123,1
+48,5,4195,Electronics,98,2
+50,11,3379,Sports,118,2
+41,23,5529,Home & Kitchen,140,2
+44,15,4148,Books,73,0
+40,17,6045,Electronics,119,2
+29,20,7590,Books,81,2
+48,18,4541,Sports,105,2
+49,15,3313,Sports,105,0
+32,24,7061,Electronics,104,0
+46,14,3746,Home & Kitchen,93,0
+46,16,4257,Clothing,126,2
+45,23,2959,Electronics,111,0
+22,24,8980,Clothing,121,0
+35,22,5678,Clothing,108,0
+57,11,2242,Home & Kitchen,116,1
+29,15,7868,Clothing,75,2
+53,11,2573,Clothing,89,2
+55,13,1853,Home & Kitchen,100,2
+27,25,7098,Clothing,172,0
+39,17,5773,Clothing,120,1
+39,14,5926,Clothing,93,1
+42,11,5720,Electronics,116,1
+43,15,4988,Electronics,94,1
+53,15,2428,Electronics,57,1
+41,16,6470,Home & Kitchen,117,2
+58,14,1536,Sports,47,1
+42,16,4901,Clothing,107,1
+51,8,3151,Clothing,94,2
+37,17,6204,Home & Kitchen,105,0
+29,19,7732,Clothing,79,2
+47,14,3983,Electronics,89,0
+35,19,6263,Sports,78,1
+53,10,2368,Books,106,2
+60,8,1688,Clothing,95,1
+30,24,7519,Electronics,128,0
+48,12,3349,Books,115,0
+57,13,1295,Sports,122,2
+51,13,3094,Books,117,2
+53,13,2627,Electronics,136,2
+36,19,6229,Books,72,2
+32,25,7535,Home & Kitchen,146,2
+41,23,5779,Books,124,2
+25,22,8449,Clothing,102,0
+51,16,3313,Clothing,66,1
+41,18,5452,Home & Kitchen,91,1
+41,16,5158,Electronics,99,0
+42,13,5419,Clothing,114,1
+36,17,5315,Sports,73,0
+36,10,7129,Clothing,130,1
+57,13,1816,Clothing,45,1
+54,19,2189,Electronics,121,2
+45,14,3960,Books,89,0
+46,15,4445,Clothing,86,1
+45,16,4515,Home & Kitchen,80,1
+51,15,3085,Books,110,1
+48,15,3696,Sports,121,2
+37,15,6264,Electronics,116,1
+36,24,5645,Sports,80,0
+41,18,4529,Books,88,0
+41,23,5828,Books,133,2
+26,15,8983,Books,125,1
+49,13,3329,Sports,88,0
+42,16,4694,Books,5,2
+32,18,5699,Sports,63,0
+42,24,5572,Books,142,2
+35,9,7401,Home & Kitchen,123,1
+43,22,5351,Books,114,2
+48,16,3568,Sports,106,0
+31,20,7617,Clothing,126,2
+34,18,7035,Books,95,2
+39,12,6531,Clothing,107,1
+41,18,5803,Home & Kitchen,134,2
+46,7,5164,Electronics,128,1
+34,16,7348,Home & Kitchen,104,2
+28,22,7288,Books,51,2
+53,7,2798,Clothing,81,0
+47,13,4300,Clothing,102,1
+47,16,4162,Sports,112,2
+33,13,7511,Clothing,87,2
+28,14,8636,Sports,122,1
+42,15,5205,Electronics,93,1
+42,16,5252,Books,109,1
+30,23,7316,Sports,117,0
+27,22,8119,Electronics,95,2
+38,17,6213,Clothing,114,1
+34,19,6718,Clothing,99,0
+41,18,5832,Electronics,143,2
+47,10,4350,Clothing,111,2
+62,10,1614,Electronics,106,0
+44,10,4858,Sports,95,2
+45,9,5225,Sports,108,1
+56,13,2157,Electronics,85,1
+56,13,2060,Sports,58,1
+43,13,4109,Sports,78,0
+31,18,6884,Sports,136,0
+43,25,4203,Home & Kitchen,56,2
+39,15,4639,Books,80,0
+31,24,6926,Clothing,86,0
+39,16,5924,Home & Kitchen,113,1
+52,10,3104,Sports,107,1
+46,18,4505,Electronics,118,2
+44,12,5122,Sports,121,1
+33,24,5643,Books,114,0
+50,10,4121,Sports,108,1
+42,11,5614,Electronics,125,1
+49,9,3799,Books,110,2
+49,18,3404,Sports,117,2
+37,20,5795,Books,99,0
+40,15,5864,Clothing,111,1
+48,17,3782,Clothing,117,2
+27,26,7475,Sports,92,0
+43,16,4937,Books,110,1
+47,10,3561,Electronics,76,0
+41,26,5414,Sports,136,2
+38,14,6492,Clothing,117,2
+46,16,3767,Clothing,94,0
+48,15,3759,Sports,82,1
+48,13,3507,Books,99,0
+39,22,5457,Clothing,84,2
+32,21,6042,Books,141,0
+51,10,2940,Clothing,114,0
+34,19,6365,Clothing,128,0
+55,15,1877,Home & Kitchen,119,2
+51,16,3139,Clothing,124,2
+40,20,5931,Electronics,107,2
+37,20,5734,Sports,53,2
+38,15,6229,Sports,107,0
+40,15,6118,Books,124,2
+31,24,7229,Clothing,92,2
+43,12,4132,Electronics,72,0
+48,10,3951,Books,107,1
+39,21,5991,Home & Kitchen,109,0
+39,14,4635,Books,85,0
+32,20,6965,Books,135,0
+40,20,5839,Clothing,98,2
+27,23,8090,Home & Kitchen,101,0
+29,22,7228,Books,136,0
+48,14,4006,Electronics,107,1
+43,13,5294,Electronics,117,1
+50,10,4049,Sports,111,1
+41,17,4548,Home & Kitchen,77,0
+49,10,3621,Home & Kitchen,117,2
+37,18,5074,Sports,81,0
+46,9,3651,Books,86,0
+32,17,7680,Home & Kitchen,122,0
+48,22,4020,Electronics,79,2
+46,14,3714,Electronics,111,0
+35,23,6287,Clothing,85,2
+40,18,5793,Home & Kitchen,78,2
+40,13,5720,Books,97,1
+52,9,3626,Sports,113,1
+47,9,3838,Sports,105,2
+45,12,3878,Books,84,0
+55,14,2027,Clothing,122,2
+40,18,5758,Sports,72,2
+40,21,4837,Home & Kitchen,93,0
+34,25,6337,Clothing,81,2
+49,10,3780,Home & Kitchen,126,2
+49,11,3619,Electronics,112,2
+49,13,4022,Clothing,99,1
+28,24,7809,Sports,115,2
+31,26,6829,Clothing,100,2
+47,15,4479,Clothing,123,2
+57,15,1676,Clothing,54,1
+22,18,9280,Clothing,117,2
+34,15,7203,Home & Kitchen,78,2
+39,12,6383,Electronics,119,1
+36,16,6425,Books,125,1
+38,20,5676,Clothing,74,2
+49,13,3822,Sports,118,2
+34,24,6925,Clothing,64,0
+39,19,5773,Sports,101,1
+45,5,5235,Home & Kitchen,114,2
+52,11,2943,Sports,88,0
+31,22,7054,Books,114,1
+51,13,3076,Electronics,107,0
+52,11,3014,Sports,92,0
+29,22,7075,Sports,113,0
+38,20,6156,Electronics,113,2
+47,18,3847,Books,65,1
+27,23,7232,Clothing,54,2
+28,22,7821,Sports,109,0
+61,14,1771,Electronics,122,0
+41,6,6633,Home & Kitchen,118,1
+29,19,7930,Electronics,132,0
+32,23,8099,Home & Kitchen,180,2
+38,25,4793,Books,34,2
+33,25,5509,Clothing,121,0
+36,17,5219,Electronics,67,0
+34,20,7017,Sports,107,0
+31,16,7134,Books,122,0
+31,20,7391,Electronics,126,0
+40,15,5825,Sports,85,1
+47,18,4744,Electronics,92,2
+44,16,4664,Home & Kitchen,75,1
+42,15,5115,Electronics,106,1
+34,20,6129,Electronics,116,0
+30,17,7322,Electronics,146,0
+34,17,5421,Books,67,0
+31,19,7469,Electronics,112,1
+39,19,5778,Sports,68,1
+48,11,4154,Home & Kitchen,113,2
+34,18,6892,Home & Kitchen,97,0
+39,19,5027,Electronics,137,0
+50,11,3175,Books,83,0
+44,13,4062,Books,73,0
+44,13,4143,Sports,68,0
+50,11,3289,Electronics,115,2
+46,20,4379,Home & Kitchen,122,2
+50,14,3426,Books,68,1
+35,16,6943,Electronics,106,1
+38,15,6045,Books,80,1
+35,20,5140,Books,142,0
+39,17,4793,Home & Kitchen,81,0
+20,19,9364,Clothing,98,2
+43,6,5431,Sports,100,2
+56,11,2497,Sports,85,0
+46,13,3765,Home & Kitchen,89,0
+45,15,4777,Books,86,1
+45,17,4032,Electronics,76,0
+30,20,7068,Books,53,2
+46,13,4505,Home & Kitchen,117,2
+48,16,2634,Sports,85,0
+38,21,5980,Books,86,2
+33,13,7418,Sports,134,1
+25,21,8232,Electronics,148,0
+42,22,5434,Sports,116,2
+26,17,8619,Sports,100,2
+41,12,5728,Clothing,105,2
+51,13,3191,Clothing,91,1
+22,20,8791,Clothing,84,2
+56,12,2296,Sports,95,1
+52,16,2920,Home & Kitchen,126,2
+49,21,3415,Sports,131,2
+40,17,4643,Home & Kitchen,80,0
+39,16,5931,Home & Kitchen,123,1
+55,13,2390,Clothing,72,1
+36,12,6919,Books,120,1
+42,24,5501,Electronics,113,2
+35,12,6835,Clothing,149,1
+35,17,5368,Clothing,64,0
+52,8,3137,Books,120,1
+34,23,6302,Electronics,84,2
+23,22,9254,Sports,137,0
+48,12,4083,Sports,87,1
+31,23,6360,Clothing,105,0
+32,21,7254,Electronics,138,0
+39,18,4784,Clothing,73,0
+45,16,3981,Home & Kitchen,118,0
+53,7,2563,Clothing,107,0
+33,18,6714,Clothing,127,0
+28,22,7471,Sports,135,0
+45,16,4709,Sports,81,1
+33,17,7404,Sports,106,1
+46,15,4249,Home & Kitchen,88,1
+40,11,5990,Sports,125,1
+50,15,3189,Electronics,59,1
+52,13,2945,Books,114,0
+48,16,3686,Electronics,73,1
+46,15,4392,Electronics,114,2
+33,21,7097,Sports,109,0
+43,11,5631,Books,106,1
+43,15,5212,Books,103,1
+37,19,5500,Books,26,2
+41,9,6156,Home & Kitchen,111,1
+38,14,6564,Sports,108,1
+37,22,5923,Books,85,2
+46,16,4539,Home & Kitchen,122,2
+46,11,4725,Clothing,115,1
+41,11,5855,Clothing,130,1
+62,12,825,Home & Kitchen,76,1
+40,8,6424,Home & Kitchen,118,1
+43,17,4999,Sports,86,1
+44,16,4860,Sports,129,2
+28,21,7828,Clothing,119,1
+46,15,3787,Books,73,0
+37,15,5045,Clothing,89,0
+40,21,5069,Books,81,0
+33,15,6280,Books,149,0
+50,14,3123,Sports,116,0
+57,10,2291,Electronics,98,0
+45,13,3965,Electronics,91,0
+32,23,6818,Home & Kitchen,105,0
+48,9,3843,Sports,103,2
+44,12,5147,Books,105,1
+38,15,6173,Electronics,119,1
+43,13,4712,Books,126,0
+26,11,9472,Electronics,125,1
+32,26,6919,Electronics,117,2
+34,15,7196,Electronics,115,1
+53,13,2505,Sports,49,1
+39,19,4822,Clothing,88,0
+38,16,4879,Books,81,0
+43,1,6500,Sports,117,1
+37,22,5831,Sports,66,2
+42,17,4971,Sports,103,1
+54,12,2674,Sports,107,0
+38,23,5917,Sports,106,2
+37,20,6402,Home & Kitchen,93,2
+54,11,2627,Books,92,1
+37,17,6411,Sports,71,2
+39,19,4910,Books,130,0
+32,17,7307,Home & Kitchen,128,1
+38,17,5001,Home & Kitchen,75,0
+48,9,4000,Books,123,2
+33,24,6260,Electronics,59,2
+58,9,2015,Clothing,93,0
+49,14,3383,Electronics,99,0
+27,26,7517,Electronics,150,0
+33,20,6599,Electronics,151,0
+59,11,893,Sports,100,2
+30,20,7395,Home & Kitchen,84,2
+35,14,6997,Electronics,120,1
+37,16,5067,Home & Kitchen,74,0
+41,13,4425,Books,78,0
+47,8,4925,Clothing,113,1
+33,19,7279,Books,108,2
+53,9,3060,Books,108,1
+46,14,4158,Sports,85,1
+51,14,3264,Clothing,77,1
+45,14,4414,Books,85,1
+42,13,5160,Books,106,1
+35,14,5248,Clothing,48,0
+37,21,6235,Clothing,88,2
+46,19,4338,Books,132,2
+49,18,3723,Clothing,49,2
+32,23,6475,Books,106,0
+39,17,5846,Books,80,1
+45,7,4692,Sports,101,2
+51,3,4396,Electronics,116,1
+34,21,6555,Books,130,1
+49,16,3519,Home & Kitchen,110,1
+35,19,6206,Electronics,83,0
+37,15,6386,Electronics,121,1
+39,21,4532,Electronics,119,0
+44,13,4966,Sports,101,1
+44,12,5153,Books,118,1
+30,23,7452,Sports,76,0
+37,16,5057,Books,148,0
+30,25,7028,Sports,112,0
+44,13,4675,Sports,94,1
+24,29,7745,Home & Kitchen,106,0
+40,16,4718,Sports,76,0
+29,22,7272,Clothing,142,0
+40,13,5907,Home & Kitchen,116,1
+29,22,6718,Sports,158,0
+64,14,100,Electronics,39,1
+56,11,2405,Clothing,113,0
+27,25,7729,Clothing,122,0
+53,10,2802,Clothing,96,0
+49,13,3491,Home & Kitchen,74,0
+46,19,4373,Sports,49,2
+44,12,5032,Sports,120,1
+31,28,6912,Electronics,129,2
+30,30,6588,Electronics,90,0
+50,17,3328,Clothing,102,2
+48,9,4124,Electronics,98,2
+29,21,7500,Home & Kitchen,158,0
+53,19,2552,Sports,123,2
+31,16,7689,Clothing,117,1
+40,17,5458,Electronics,120,1
+45,12,4852,Home & Kitchen,126,1
+47,16,4225,Home & Kitchen,61,1
+42,13,5400,Electronics,114,2
+45,7,5583,Sports,106,1
+30,29,6747,Electronics,121,0
+34,16,5431,Clothing,49,0
+32,16,7577,Electronics,119,1
+51,11,3033,Home & Kitchen,97,2
+36,17,5401,Electronics,126,0
+38,20,6291,Sports,93,2
+42,15,4599,Books,117,0
+47,14,3549,Electronics,100,0
+33,20,5593,Sports,63,0
+31,21,6730,Sports,130,0
+45,13,4811,Home & Kitchen,112,1
+45,12,4795,Sports,122,2
+44,21,5085,Sports,109,2
+43,11,4125,Sports,88,0
+49,12,3551,Sports,113,2
+43,14,5244,Clothing,99,1
+29,17,7800,Clothing,62,2
+44,12,5220,Home & Kitchen,113,1
+46,21,4288,Electronics,135,2
+41,17,5043,Sports,31,2
+27,22,8039,Electronics,121,1
+39,18,4701,Electronics,90,0
+22,26,8747,Home & Kitchen,135,0
+38,16,4910,Sports,77,0
+33,13,7651,Sports,117,1
+46,15,4002,Books,64,0
+41,18,5102,Electronics,83,1
+47,12,3557,Electronics,87,0
+47,12,4185,Clothing,112,2
+43,14,4248,Books,92,0
+43,20,4444,Clothing,123,1
+36,17,6936,Clothing,112,2
+27,23,8191,Clothing,113,0
+33,18,7194,Home & Kitchen,115,1
+48,11,3991,Home & Kitchen,76,1
+30,17,7549,Clothing,117,0
+42,16,5562,Books,79,2
+32,19,6830,Electronics,117,0
+39,22,5477,Books,76,2
+41,14,5726,Sports,112,1
+50,11,3113,Home & Kitchen,90,0
+57,8,2149,Electronics,105,0
+24,27,8253,Electronics,91,0
+46,15,4432,Sports,116,2
+35,21,5646,Sports,102,0
+50,15,3252,Clothing,112,2
+55,13,2261,Home & Kitchen,68,1
+53,11,2426,Home & Kitchen,101,2
+47,15,4162,Books,136,2
+53,16,2672,Clothing,76,1
+35,20,6704,Clothing,107,2
+30,19,7692,Clothing,119,1
+48,14,3796,Clothing,109,2
+31,18,7707,Home & Kitchen,96,1
+46,15,3742,Home & Kitchen,103,0
+37,23,6252,Clothing,100,2
+32,27,6302,Books,88,0
+47,14,4108,Electronics,91,1
+44,22,3330,Electronics,139,0
+32,22,6536,Books,111,0
+34,19,7078,Clothing,107,2
+48,8,3977,Home & Kitchen,101,2
+42,16,5506,Electronics,89,2
+43,12,5295,Sports,103,1
+46,14,3781,Sports,88,0
+32,22,6180,Books,116,0
+50,21,3248,Clothing,119,2
+43,22,5110,Electronics,135,2
+35,19,6228,Clothing,58,2
+39,19,4978,Electronics,84,0
+48,13,3514,Books,88,0
+42,4,6283,Books,126,1
+38,14,6163,Sports,122,1
+50,15,3507,Clothing,127,2
+44,17,4755,Sports,76,1
+50,14,3341,Clothing,63,1
+30,25,7244,Sports,100,2
+48,12,3463,Home & Kitchen,85,0
+50,12,3311,Home & Kitchen,117,2
+43,12,5110,Home & Kitchen,113,2
+39,18,5518,Home & Kitchen,48,2
+28,20,8266,Electronics,120,1
+28,24,7700,Home & Kitchen,95,2
+40,24,4148,Books,100,0
+44,13,3962,Books,89,0
+26,27,6161,Electronics,156,0
+48,14,4013,Home & Kitchen,132,2
+53,10,2829,Home & Kitchen,86,0
+37,11,6392,Home & Kitchen,133,1
+48,11,4131,Sports,84,1
+46,13,4743,Clothing,117,1
+42,15,4408,Sports,67,0
+44,19,4271,Clothing,54,1
+45,16,4380,Home & Kitchen,58,1
+46,13,4556,Home & Kitchen,115,2
+41,15,5173,Sports,104,0
+46,18,4358,Sports,121,2
+32,12,7965,Clothing,118,1
+41,13,5621,Books,109,1
+46,15,4205,Clothing,92,1
+45,12,3869,Sports,80,0
+36,15,5889,Sports,163,0
+50,12,3184,Electronics,96,0
+36,17,5979,Sports,43,2
+44,15,4899,Electronics,109,1
+37,21,6268,Books,91,2
+38,7,6904,Clothing,135,1
+48,13,3901,Clothing,115,2
+29,18,7974,Electronics,97,1
+38,17,4852,Clothing,83,0
+26,21,8297,Sports,105,2
+60,11,1908,Home & Kitchen,124,0
+33,20,6847,Electronics,116,1
+51,15,3016,Clothing,113,2
+48,17,3668,Electronics,82,1
+42,24,5114,Electronics,104,2
+49,14,3462,Home & Kitchen,77,0
+46,17,4355,Sports,104,1
+37,12,6915,Electronics,121,1
+32,19,5824,Clothing,44,0
+28,18,8012,Books,148,0
+52,15,2769,Electronics,114,2
+63,15,400,Electronics,30,1
+45,10,4888,Home & Kitchen,117,2
+53,13,2779,Sports,117,0
+46,13,3756,Books,86,0
+36,12,6813,Clothing,130,1
+46,20,3168,Books,118,0
+32,20,6710,Clothing,67,2
+45,12,4855,Sports,114,1
+50,12,3123,Clothing,104,0
+49,7,4526,Home & Kitchen,118,1
+32,21,6790,Home & Kitchen,115,0
+54,13,2320,Home & Kitchen,69,1
+41,10,5764,Home & Kitchen,132,1
+35,15,5199,Books,58,0
+35,12,7293,Sports,116,1
+49,16,3581,Clothing,114,1
+40,17,5384,Clothing,67,1
+49,12,3550,Home & Kitchen,91,1
+40,13,5963,Home & Kitchen,113,1
+35,19,6053,Electronics,111,0
+48,14,4255,Sports,100,1
+45,18,4633,Books,125,2
+51,10,3129,Clothing,97,2
+44,14,4846,Electronics,98,1
+31,25,7278,Electronics,113,2
+49,17,3589,Clothing,129,2
+61,9,1779,Books,110,0
+42,24,5644,Electronics,156,2
+42,15,4327,Electronics,80,0
+36,22,5881,Sports,100,0
+53,12,2830,Books,52,1
+28,20,7788,Electronics,109,0
+32,24,6824,Books,110,1
+38,18,5924,Clothing,118,1
+46,16,4361,Home & Kitchen,105,1
+42,19,5071,Electronics,106,1
+24,22,8965,Sports,117,0
+33,21,6154,Clothing,140,0
+30,13,7941,Books,143,1
+53,20,2446,Clothing,132,2
+48,11,3974,Electronics,96,1
+58,13,1679,Books,81,1
+41,17,4446,Home & Kitchen,103,0
+48,10,3832,Clothing,118,2
+43,13,5337,Electronics,108,1
+42,16,4290,Sports,79,0
+38,15,4866,Books,65,0
+27,25,7823,Clothing,115,2
+41,13,4521,Clothing,77,0
+38,22,5346,Home & Kitchen,84,0
+51,7,3234,Home & Kitchen,98,2
+43,20,5204,Sports,100,2
+45,15,4900,Sports,106,1
+50,16,3284,Electronics,68,1
+49,14,3669,Electronics,80,1
+39,20,5442,Sports,62,2
+54,11,3249,Sports,101,1
+53,16,2668,Books,71,1
+50,14,3281,Home & Kitchen,116,2
+38,22,5598,Electronics,66,2
+29,21,7680,Home & Kitchen,84,2
+45,12,5018,Home & Kitchen,105,1
+49,17,3528,Sports,87,1
+50,11,3658,Books,100,1
+33,19,6413,Clothing,50,2
+52,15,2789,Books,65,1
+30,9,8737,Books,123,1
+31,27,6473,Home & Kitchen,104,0
+30,15,8069,Books,120,1
+34,19,6565,Electronics,124,1
+36,15,6623,Home & Kitchen,124,1
+40,12,6011,Electronics,119,1
+45,11,4805,Clothing,112,2
+53,11,2554,Home & Kitchen,90,2
+28,25,7348,Clothing,88,2
+43,13,4247,Home & Kitchen,69,0
+18,23,10000,Sports,119,1
+38,14,4840,Books,66,0
+42,9,5928,Sports,116,1
+44,14,4889,Clothing,119,2
+48,16,3747,Books,123,2
+37,16,6274,Home & Kitchen,122,1
+48,12,4319,Books,102,1
+27,22,7200,Electronics,141,0
+52,15,2861,Books,70,1
+44,18,4775,Electronics,93,1
+39,12,6345,Books,123,1
+43,13,4191,Electronics,68,0
+55,15,2123,Clothing,86,1
+47,14,3959,Sports,113,1
+41,16,4621,Home & Kitchen,71,0
+40,18,4414,Books,136,0
+34,17,7292,Sports,101,0
+52,9,2937,Home & Kitchen,119,2
+51,11,2831,Home & Kitchen,122,2
+43,16,4271,Electronics,68,0
+47,14,3638,Clothing,92,0
+29,17,8174,Clothing,107,2
+42,28,4067,Sports,49,2
+41,18,4552,Clothing,130,0
+25,24,7810,Books,132,2
+37,17,6090,Clothing,54,2
+35,19,6359,Sports,109,1
+39,17,5850,Clothing,89,1
+50,13,3507,Books,90,1
+34,16,6970,Electronics,120,1
+43,16,4248,Sports,97,0
+56,13,2183,Electronics,92,1
+65,9,1195,Electronics,104,0
+47,17,4041,Electronics,70,1
+34,15,6643,Home & Kitchen,137,0
+41,13,4429,Home & Kitchen,80,0
+47,17,4338,Electronics,127,2
+36,16,6678,Sports,92,2
+29,23,7362,Books,93,2
+45,13,4655,Books,112,2
+48,12,4161,Clothing,122,2
+36,18,6443,Sports,111,1
+35,20,6455,Home & Kitchen,114,1
+48,19,3617,Electronics,136,2
+30,24,7012,Clothing,73,2
+26,24,7984,Books,115,2
+52,23,3060,Home & Kitchen,71,2
+40,21,5698,Home & Kitchen,99,2
+65,11,359,Electronics,56,1
+31,23,7057,Books,100,0
+28,25,7631,Sports,88,2
+40,11,5919,Home & Kitchen,117,1
+47,17,3970,Electronics,122,2
+40,13,5862,Sports,119,1
+39,24,5967,Books,134,2
+33,17,6902,Home & Kitchen,66,2
+44,13,5171,Sports,102,1
+44,22,4257,Sports,45,2
+33,12,7778,Sports,125,1
+35,21,7058,Home & Kitchen,111,2
+48,14,3816,Home & Kitchen,104,2
+38,16,4893,Clothing,82,0
+54,12,2327,Books,95,2
+46,7,4611,Electronics,100,2
+36,16,6136,Sports,118,0
+50,12,3458,Clothing,114,2
+42,14,5296,Electronics,114,1
+53,10,2800,Clothing,88,0
+52,8,3053,Home & Kitchen,109,2
+27,24,7505,Sports,138,0
+43,15,5101,Electronics,135,2
+42,24,5152,Electronics,102,2
+51,10,3262,Electronics,83,1
+35,19,7081,Electronics,117,2
+41,14,4422,Electronics,89,0
+29,27,7189,Clothing,101,2
+24,19,8373,Sports,140,0
+49,11,3337,Home & Kitchen,82,0
+38,12,6593,Home & Kitchen,120,1
+64,9,360,Home & Kitchen,85,1
+49,20,3588,Home & Kitchen,119,2
+48,14,3894,Clothing,80,1
+30,25,7107,Books,109,1
+48,12,3471,Sports,112,0
+41,18,4531,Electronics,94,0
+39,17,5728,Books,71,1
+45,14,4665,Home & Kitchen,77,1
+46,13,4536,Books,107,2
+50,12,3682,Sports,94,1
+51,7,3597,Electronics,83,1
+46,13,3762,Electronics,87,0
+47,12,4290,Sports,111,2
+32,17,7568,Sports,95,2
+42,10,5377,Home & Kitchen,102,2
+60,10,1213,Electronics,80,1
+41,15,5594,Books,94,1
+37,16,5062,Clothing,62,0
+34,22,6469,Clothing,106,0
+39,21,4194,Sports,102,0
+25,21,8302,Home & Kitchen,85,2
+35,23,6116,Clothing,116,1
+45,12,4741,Electronics,112,2
+45,12,4799,Sports,136,1
+42,16,5235,Books,116,1
+48,13,3929,Sports,106,2
+39,14,5999,Books,121,1
+55,9,2542,Sports,86,0
+38,23,4633,Sports,121,0
+55,12,2665,Sports,98,0
+31,19,7483,Books,111,1
+40,14,5888,Books,119,1
+41,23,6038,Sports,140,2
+30,23,7474,Clothing,107,2
+42,16,5397,Home & Kitchen,113,1
+36,21,6076,Home & Kitchen,66,2
+30,17,7904,Home & Kitchen,112,1
+48,19,3993,Books,132,2
+30,22,7695,Books,104,0
+46,8,4379,Clothing,102,2
+51,18,2799,Home & Kitchen,34,1
+33,21,6982,Home & Kitchen,84,2
+39,22,4425,Sports,106,0
+43,15,5159,Books,83,1
+52,12,2939,Home & Kitchen,70,1
+45,13,3900,Clothing,74,0
+30,16,7908,Clothing,123,1
+54,10,2764,Home & Kitchen,99,1
+44,16,4689,Books,112,1
+50,13,4020,Clothing,58,2
+46,11,3610,Sports,99,0
+39,17,5920,Clothing,115,1
+35,17,6444,Electronics,103,1
+32,20,6657,Electronics,52,2
+56,13,2066,Books,73,1
+27,25,8042,Home & Kitchen,110,2
